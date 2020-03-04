@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535496293 source:f:\data structure\pageranking\pagerank.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
